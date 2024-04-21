@@ -4,3 +4,5 @@ K Nearest Neighbour algo
 K-Mean Algo
 Random Forest Algo
 Decision tREE
+Cross Validation
+
